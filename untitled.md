@@ -4,6 +4,7 @@
 ## ĐƠN XIN VIỆC
 
 Kính gửi: **Ban tuyển dụng Công ty XZY**  
+
 Tên tôi là: **A B C**  
 Địa chỉ: Số nhà X, đường Y, Quận Z, Thành Phố Hà Nội  
 Tôi có 5 năm kinh nghiệm với hệ thống di động 4G và có cơ hội làm việc với hệ thống Openstack và Virtual...  
