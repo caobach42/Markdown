@@ -13,5 +13,5 @@ Tôi có 5 năm kinh nghiệm với hệ thống di động 4G và có cơ hội
 * Triển khai hệ thống Openstack trên 1 máy Dell  
 * Triển khai virtual EPC (vMME, vEPG) phục vụ trong test lab  
 
-[*My profile link](https://vnexpress.net)  
+[*My profile link*](https://vnexpress.net)  
 
